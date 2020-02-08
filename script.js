@@ -1,4 +1,4 @@
-const pictures = ['cat1', 'cat2', 'cat3', 'cat4', 'cat5'];
+const pictures = ['cat1', 'cat2', 'cat3', 'cat4', 'cat5', 'cat6', 'cat7', 'cat8', 'cat9', 'cat10'];
 
 let imgContainer = document.getElementById('img-container');
 let buttonRight = document.getElementsByClassName('btn-right')[0];
